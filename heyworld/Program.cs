@@ -10,6 +10,9 @@ namespace heyworld
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hey");
+            Console.ReadLine();
+
         }
     }
 }
